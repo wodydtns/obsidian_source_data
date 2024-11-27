@@ -1,0 +1,53 @@
+[
+    {
+        "id": "d6ac9e0b-38c7-4de7-9272-849cf82c550b",
+        "name": "Sheet1",
+        "plugin": "divams_spreadsheets_for_obsidian",
+        "celldata": [
+            {
+                "r": 9,
+                "c": 5,
+                "v": {
+                    "v": "5000",
+                    "ct": {
+                        "fa": "General",
+                        "t": "n"
+                    },
+                    "m": "5000"
+                }
+            },
+            {
+                "r": 10,
+                "c": 5,
+                "v": {
+                    "v": "5000",
+                    "ct": {
+                        "fa": "General",
+                        "t": "n"
+                    },
+                    "m": "5000"
+                }
+            },
+            {
+                "r": 11,
+                "c": 5,
+                "v": {
+                    "v": 10000,
+                    "f": "=sum(F10:F11)",
+                    "m": "10000",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    }
+                }
+            }
+        ],
+        "calcChain": [
+            {
+                "r": 11,
+                "c": 5,
+                "id": "d6ac9e0b-38c7-4de7-9272-849cf82c550b"
+            }
+        ]
+    }
+]
